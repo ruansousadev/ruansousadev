@@ -8,10 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="400">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruanzinh-2k26&label=Profile%20Views&color=00f7ff&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/dynamic-status-brightgreen?label=Status&message=Coding...&color=success" alt="status" />
-</p>
+
 
 ---
 
