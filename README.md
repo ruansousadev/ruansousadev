@@ -4,20 +4,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+World!;My+name+is+Ruan;Nice+to+meet+you!;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="400">
-</p>
-
-
-
 ---
 
 ### 🧑‍💻 About Me
 
 - 🔭 I'm currently learning and building cool projects
 - 🌱 Always improving my skills in **HTML, CSS, Python and Java**
+- 💡 I enjoy solving problems and creating new things with code
+- 🎯 Focused on becoming a better developer every day
+- 🤝 Open to learning new technologies and collaborating on projects
 - ⚡ Fun fact: I love turning ideas into code!
 - 📫 Reach me on Instagram below 👇
+
+---
+
+### 📚 Currently Learning
+
+- 🐍 Python fundamentals and logic building
+- ☕ Java object-oriented programming
+- 🎨 Advanced CSS animations and responsive design
+- 🌐 Modern HTML5 best practices
 
 ---
 
