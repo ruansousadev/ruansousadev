@@ -1,57 +1,80 @@
-🌎 Hello World! I’m Ruan, Nice to Meet You 👋
+<h1 align="center">Hello World! 👋 I'm Ruan</h1>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;I'm+Ruan+Sousa+%F0%9F%92%BB;Developer+in+progress+%F0%9F%9A%80;Building%2C+learning+and+evolving+every+day." alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+World!;My+name+is+Ruan;Nice+to+meet+you!;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-⸻
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="400">
+</p>
 
-👨‍💻 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ruanzinh-2k26&label=Profile%20Views&color=00f7ff&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/dynamic-status-brightgreen?label=Status&message=Coding...&color=success" alt="status" />
+</p>
 
-I’m Ruan Sousa, a technology enthusiast and developer in progress.
+---
 
-I’m interested in software development, artificial intelligence, cybersecurity and web technologies.
+### 🧑‍💻 About Me
 
-I enjoy turning ideas into projects and constantly learning new technologies.
+- 🔭 I'm currently learning and building cool projects
+- 🌱 Always improving my skills in **HTML, CSS, Python and Java**
+- ⚡ Fun fact: I love turning ideas into code!
+- 📫 Reach me on Instagram below 👇
 
-⸻
+---
 
-🛠️ Technologies
+### 🌐 Connect with me
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,mysql" />
-</div>
+<p align="center">
+  <a href="https://www.instagram.com/ruanzinh_2k26" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40ruanzinh__2k26-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
-⸻
+---
 
-🚀 Currently Learning
+### 🛠️ Languages & Tools
 
-* 💻 Software Development
-* 🌐 Web Technologies
-* 🤖 Artificial Intelligence
-* 🔐 Cybersecurity
-* 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,python,java,js,git,github,vscode&perline=8" />
+</p>
 
-⸻
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-📊 GitHub
+---
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ruandev&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruandev&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
+### 📊 GitHub Stats
 
-⸻
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruanzinh-2k26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruanzinh-2k26&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-🐍 Contribution
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanzinh-2k26&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+</p>
 
-<div align="center">
-</div>
+---
 
-⸻
+### 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-💡 Keep coding. Keep learning. Keep evolving.
+---
 
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="0" height="0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer" width="100%"/>
+</p>
+
+<p align="center"><b>Thanks for visiting my profile! ⭐</b></p>
